@@ -37,14 +37,14 @@
    ```
 
 3. **Run the notebook**:
-   Open `main_notebook.ipynb` in JupyterLab or VS Code and run all cells in order.
+   Open `technical_test.ipynb` in JupyterLab or VS Code and run all cells in order.
 
    **OR**
 
    **Run the script (if converted to `.py`)**:
 
    ```bash
-   python main_script.py
+   python technical_test.py
    ```
 
 4. **Expected output**:
