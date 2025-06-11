@@ -26,8 +26,8 @@
 1. **Clone the repository** (if applicable):
 
    ```bash
-   git clone https://github.com/Gian-Nanni/Promitor---Pipeline.git
-   cd Promitor---Pipeline
+   git clone https://github.com/Gian-Nanni/Promitor-Pipeline.git
+   cd Promitor-Pipeline
    ```
 
 2. **Install dependencies**:
